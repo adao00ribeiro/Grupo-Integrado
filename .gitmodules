@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/adao00ribeiro/frontend.git
+[submodule "digital-matricula-api"]
+	path = digital-matricula-api
+	url = https://github.com/adao00ribeiro/digital-matricula-api.git

@@ -85,7 +85,7 @@ pnpm install
 ```
 4. Iniciar o prisma
 ```bash
-$ npx prisma migrate dev --name Initial
+npx prisma migrate dev --name Initial
 ```
 5. Iniciar o prisma
 ```bash

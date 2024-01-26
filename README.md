@@ -95,7 +95,33 @@ $ pnpm seed
 ```bash
 $ pnpm start
 ```
-6. Backend rodando
+7. Backend rodando
 ```bash
 $ start http://localhost:5000/api
+```
+## Como Rodar o Projeto FrontEnd
+
+1. Clone o repositório: 
+```bash
+$ git clone https://github.com/adao00ribeiro/frontend.git
+```
+2. Navegue até a pasta frontend:
+```bash
+$  cd frontend
+```
+3. Instale as dependências: npm install ou yarn install ou pnpm install
+```bash
+$ npm install
+```
+4. Instale as dependências: npm install ou yarn install ou pnpm install
+```bash
+$ npm run build
+```
+5. Instale as dependências: npm install ou yarn install ou pnpm install
+```bash
+$ npm run start
+```
+6. FrontEnd rodando
+```bash
+$ start http://localhost:3000
 ```

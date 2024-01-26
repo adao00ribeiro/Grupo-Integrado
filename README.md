@@ -97,5 +97,5 @@ $ pnpm start
 ```
 6. Backend rodando
 ```bash
-$ http://localhost:5000/api
+$ start http://localhost:5000/api
 ```

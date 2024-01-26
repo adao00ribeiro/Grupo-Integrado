@@ -73,15 +73,15 @@ Devido à minha falta de conhecimento prévio em Nuxt, dediquei considerável te
 
 1. Clone o repositório: 
 ```bash
-$ git clone https://github.com/adao00ribeiro/digital-matricula-api.git
+git clone https://github.com/adao00ribeiro/digital-matricula-api.git
 ```
 2. Navegue até a pasta do digital-matricula-api:
 ```bash
-$  cd digital-matricula-api
+cd digital-matricula-api
 ```
 3. Instale as dependências: npm install ou yarn install ou pnpm install
 ```bash
-$ pnpm install
+pnpm install
 ```
 4. Iniciar o prisma
 ```bash
@@ -89,39 +89,39 @@ $ npx prisma migrate dev --name Initial
 ```
 5. Iniciar o prisma
 ```bash
-$ pnpm seed
+pnpm seed
 ```
 6. Inicie o servidor: npm start ou yarn start
 ```bash
-$ pnpm start
+pnpm start
 ```
 7. Backend rodando
 ```bash
-$ start http://localhost:5000/api
+start http://localhost:5000/api
 ```
 ## Como Rodar o Projeto FrontEnd
 
 1. Clone o repositório: 
 ```bash
-$ git clone https://github.com/adao00ribeiro/frontend.git
+git clone https://github.com/adao00ribeiro/frontend.git
 ```
 2. Navegue até a pasta frontend:
 ```bash
-$  cd frontend
+cd frontend
 ```
 3. Instale as dependências: npm install ou yarn install ou pnpm install
 ```bash
-$ npm install
+npm install
 ```
 4. Instale as dependências: npm install ou yarn install ou pnpm install
 ```bash
-$ npm run build
+npm run build
 ```
 5. Instale as dependências: npm install ou yarn install ou pnpm install
 ```bash
-$ npm run start
+npm run start
 ```
 6. FrontEnd rodando
 ```bash
-$ start http://localhost:3000
+start http://localhost:3000
 ```

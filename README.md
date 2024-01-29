@@ -97,7 +97,8 @@ pnpm start
 ```
 7. Backend rodando
 ```bash
-start http://localhost:5000/api
+start http://localhost:5000
+start http://localhost:5000/api   (Swagger)
 ```
 ## Como Rodar o Projeto FrontEnd
 
